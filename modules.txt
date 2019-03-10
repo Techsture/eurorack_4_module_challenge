@@ -1,43 +1,43 @@
-2hp Pluck
-2hp VCA (A)
-2hp VCA (B)
-4ms Dual Looping Delay
-4ms Spectral Multiband Resonator
-ALM Pamela's New! Workout
-Division 6 Multiplicity XV
-Erica Synths Bassline
-Erica Synths Black Modulator
-Erica Synths Black Octasource
-Intellijel Plog
-Intellijel Quadra
-Intellijel Shifty
-Intellijel uScale
-Make Noise Erbe-Verb
-Make Noise Maths
-Make Noise Morphagene
-Make Noise Pressure Points
-Make Noise QPAS
-Make Noise Rene 2
-Make Noise STO
-Malekko Heavy Industry MLT
-Malekko Heavy Industry Voltage Block
-Moog DFAM
-Moog Mother-32
-Music Thing Modular Radio Music (A)
-Music Thing Modular Radio Music (B)
-Mutable Instruments Marbles
-Mutable Instruments Plaits
-Mutable Instruments Rings
-Mutable Instruments Ripples
-Mutable Instuments Tides
-Noise Engineering Basimilus Iteritas Alter
-Prok BD
-Prok CP
-Prok HH
-Prok SN
-Strymon Magneto
-Tiptop Audio Toms909
-vpme.de Euclidean Circles v2
-WMD Arpitecht
-WMD Spectrum
-XAOC Batumi
+2hp Pluck,o
+2hp VCA (A),u
+2hp VCA (B),u
+4ms Dual Looping Delay,f
+4ms Spectral Multiband Resonator,o
+ALM Pamela's New! Workout,u
+Division 6 Multiplicity XV,u
+Erica Synths Bassline,o
+Erica Synths Black Modulator,m
+Erica Synths Black Octasource,m
+Intellijel Plog,u
+Intellijel Quadra,u
+Intellijel Shifty,u
+Intellijel uScale,u
+Make Noise Erbe-Verb,f
+Make Noise Maths,m
+Make Noise Morphagene,o
+Make Noise Pressure Points,m
+Make Noise QPAS,f
+Make Noise Rene 2,m
+Make Noise STO,o
+Malekko Heavy Industry MLT,u
+Malekko Heavy Industry Voltage Block,m
+Moog DFAM,o
+Moog Mother-32,o
+Music Thing Modular Radio Music (A),o
+Music Thing Modular Radio Music (B),o
+Mutable Instruments Marbles,m
+Mutable Instruments Plaits,o
+Mutable Instruments Rings,o
+Mutable Instruments Ripples,f
+Mutable Instuments Tides,m
+Noise Engineering Basimilus Iteritas Alter,o
+Prok BD,o
+Prok CP,o
+Prok HH,o
+Prok SN,o
+Strymon Magneto,f
+Tiptop Audio Toms909,o
+vpme.de Euclidean Circles v2,m
+WMD Arpitecht,m
+WMD Spectrum,o
+XAOC Batumi,m
