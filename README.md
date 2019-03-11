@@ -1,3 +1,6 @@
+Eurorack Four Module Challenge
+==============================
+
 This script is inspired by YouTuber "Comparative Irrelevance" and their #3modulechallenge.
 
 https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g
