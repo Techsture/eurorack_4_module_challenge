@@ -1,11 +1,9 @@
 Eurorack Four Module Challenge
-==============================
+==
 
-This script is inspired by YouTuber "Comparative Irrelevance" and their #3modulechallenge.
+This script is inspired by YouTuber [Comparative Irrelevance](https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g) and their #3modulechallenge.
 
-https://www.youtube.com/channel/UCQBQ6F7VD78Ic_FkTexeE8g
-
-Use this to generate a list of four modules from a list in the same folder called 'modules.txt'.
+Use this to generate a list of four modules from a file in the same folder called 'modules.txt'.
 
 The format of the modules.txt file is:
 
