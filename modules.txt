@@ -1,16 +1,16 @@
 2hp Pluck,s
-2hp VCA (A),u
-2hp VCA (B),u
+# 2hp VCA (A),u
+# 2hp VCA (B),u
 4ms Dual Looping Delay,f
-4ms Spectral Multiband Resonator,s
+# 4ms Spectral Multiband Resonator,s
 ALM Pamela's New! Workout,u
 Division 6 Multiplicity XV,u
 Erica Synths Bassline,s
 Erica Synths Black Modulator,m
-Erica Synths Black Octasource,m
+# Erica Synths Black Octasource,m
 Intellijel Plog,u
 Intellijel Quadra,u
-Intellijel Shifty,u
+# Intellijel Shifty,u
 Intellijel uScale,u
 Make Noise Erbe-Verb,f
 Make Noise Maths,m
@@ -18,26 +18,24 @@ Make Noise Morphagene,s
 Make Noise Pressure Points,m
 Make Noise QPAS,f
 Make Noise Rene 2,m
-Make Noise STO,s
+# Make Noise STO,s
 Malekko Heavy Industry MLT,u
 Malekko Heavy Industry Voltage Block,m
-Moog DFAM,s
-Moog Mother-32,s
 Music Thing Modular Radio Music (A),s
 Music Thing Modular Radio Music (B),s
 Mutable Instruments Marbles,m
 Mutable Instruments Plaits,s
 Mutable Instruments Rings,s
-Mutable Instruments Ripples,f
+# Mutable Instruments Ripples,f
 Mutable Instuments Tides,m
 Noise Engineering Basimilus Iteritas Alter,s
 Prok BD,s
 Prok CP,s
 Prok HH,s
 Prok SN,s
-Strymon Magneto,f
+# Strymon Magneto,f
 Tiptop Audio Toms909,s
 vpme.de Euclidean Circles v2,m
 WMD Arpitecht,m
-WMD Spectrum,s
+# WMD Spectrum,s
 XAOC Batumi,m

@@ -68,14 +68,17 @@ def generate_module_lists():
     for line in file.readlines():
       split_line = line.strip('\n').split(',')
       #print(split_line)
-      if split_line[1] is 'f':
-        fx_list.append(split_line[0])
-      elif split_line[1] is 'm':
-        modulators_list.append(split_line[0])
-      elif split_line[1] is 's':
-        sources_list.append(split_line[0])
+      if not line.startswith("#"):
+        if split_line[1] is 'f':
+          fx_list.append(split_line[0])
+        elif split_line[1] is 'm':
+          modulators_list.append(split_line[0])
+        elif split_line[1] is 's':
+          sources_list.append(split_line[0])
+        else:
+          utilities_list.append(split_line[0])
       else:
-        utilities_list.append(split_line[0])
+          continue
   file.close()
   #print(fx_list)
   #print(modulators_list)
