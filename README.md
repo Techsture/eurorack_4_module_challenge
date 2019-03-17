@@ -16,7 +16,7 @@ The format of the `modules.txt` file is:
     * `u`: Utility (VCAs, EGs, quantizers, touch controllers)
 
 Anyways, I wanted to do four modules instead of three because mentally it just makes more sense
-to me a the moment in how I think of modular.  Also, logically separating the modules into types 
+to me at the moment in how I think of modular.  Also, logically separating the modules into types 
 ensure that you'll be able to make some noise at the very least.
 
 I did add an optional switch to this script (`--ci`) to allow you to do the true #3modulechallenge.  
