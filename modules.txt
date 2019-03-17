@@ -27,7 +27,7 @@ Mutable Instruments Marbles,m
 Mutable Instruments Plaits,s
 Mutable Instruments Rings,s
 # Mutable Instruments Ripples,f
-Mutable Instuments Tides,m
+# Mutable Instuments Tides,m
 Noise Engineering Basimilus Iteritas Alter,s
 Prok BD,s
 Prok CP,s
