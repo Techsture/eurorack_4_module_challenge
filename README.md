@@ -14,6 +14,7 @@ The format of the `modules.txt` file is:
     * `m`: Modulator (function generators, LFOs, sequencers)
     * `s`: Sound Source (oscillators, sample players)
     * `u`: Utility (VCAs, EGs, quantizers, touch controllers)
+  * You can prepend a line with `#` and the script will ignore that line.  This is useful if, for example, you've temporarily removed a module from your rack but don't want to remove it from the file completely.
 
 Anyways, I wanted to do four modules instead of three because mentally it just makes more sense
 to me at the moment in how I think of modular.  Also, logically separating the modules into types 
