@@ -28,6 +28,7 @@ Make Noise Rene 2,m
 # Make Noise STO,s
 Malekko Heavy Industry MLT,u
 Malekko Heavy Industry Voltage Block,m
+Moog DFAM,s
 Music Thing Modular Radio Music (A),s
 Music Thing Modular Radio Music (B),s
 Music Thing Modular Radio Music (C),s
