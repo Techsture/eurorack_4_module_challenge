@@ -1,17 +1,24 @@
+2hp Arp,m
+2hp Delay,f
+2hp Mix,u
 2hp Pluck,s
-# 2hp VCA (A),u
-# 2hp VCA (B),u
-4ms Dual Looping Delay,f
-# 4ms Spectral Multiband Resonator,s
+2hp VCA (A),u
+2hp VCA (B),u
+2hp Verb,f
+4ms Company Dual Looping Delay,f
+# 4ms Company Spectral Multiband Resonator,s
 ALM Pamela's New! Workout,u
 Division 6 Multiplicity XV,u
 Erica Synths Bassline,s
 Erica Synths Black Modulator,m
 # Erica Synths Black Octasource,m
+Intellijel Planar 2,u
 Intellijel Plog,u
 Intellijel Quadra,u
 # Intellijel Shifty,u
-Intellijel uScale,u
+Intellijel uScale 2,u
+Intellijel uVCA II (A),u
+Intellijel uVCA II (B),u
 Make Noise Erbe-Verb,f
 Make Noise Maths,m
 Make Noise Morphagene,s
@@ -23,19 +30,22 @@ Malekko Heavy Industry MLT,u
 Malekko Heavy Industry Voltage Block,m
 Music Thing Modular Radio Music (A),s
 Music Thing Modular Radio Music (B),s
+Music Thing Modular Radio Music (C),s
+Music Thing Modular Radio Music (D),s
+Mutable Instruments Clouds,f
 Mutable Instruments Marbles,m
 Mutable Instruments Plaits,s
 Mutable Instruments Rings,s
-# Mutable Instruments Ripples,f
-# Mutable Instuments Tides,m
+Mutable Instruments Ripples,f
+Mutable Instuments Tides,m
 Noise Engineering Basimilus Iteritas Alter,s
-Prok BD,s
-Prok CP,s
-Prok HH,s
-Prok SN,s
+Prok Modular BD,s
+Prok Modular CP,s
+Prok Modular HH,s
+Prok Modular SN,s
 # Strymon Magneto,f
-Tiptop Audio Toms909,s
+# Tiptop Audio Toms909,s
 vpme.de Euclidean Circles v2,m
 WMD Arpitecht,m
 # WMD Spectrum,s
-XAOC Batumi,m
+Xaoc Devices Batumi,m
